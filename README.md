@@ -69,9 +69,6 @@ Here are some of my **private projects** (links hidden):
 
 ---
 
-### ⚡ Fun Section
-![Fun GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)  
-
 - Constantly experimenting with new tech 💡  
 - Learning daily to push limits 🚀  
 - Love coding, debugging, and creating web magic ✨  
