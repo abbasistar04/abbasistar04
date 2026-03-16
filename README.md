@@ -54,8 +54,8 @@ Here are some of my **private projects** (links hidden):
 <!-- Stats GIF -->
 ![Stats GIF](https://media.giphy.com/media/26xBuwTjCw4LJ7k5q/giphy.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abassistar04&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abassistar04&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasistar04&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasistar04&layout=compact&theme=radical)  
 
 ---
 
