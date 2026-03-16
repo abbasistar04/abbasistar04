@@ -54,8 +54,8 @@ Here are some of my **private projects** (links hidden):
 <!-- Stats GIF -->
 ![Stats GIF](https://media.giphy.com/media/26xBuwTjCw4LJ7k5q/giphy.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abassistar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abassistar&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abassistar04&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abassistar04&layout=compact&theme=radical)  
 
 ---
 
@@ -63,7 +63,7 @@ Here are some of my **private projects** (links hidden):
 
 ![Contact GIF](https://media.giphy.com/media/3ohhwHhNIGXv7q5QZm/giphy.gif)  
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+- **Email:** [abbassistar04@gmail.com](mailto:abbassistar04@gmail.com)  
 - **LinkedIn:** [Hurr Abbas](#)  
 - **Twitter:** [@hurr_abbas](#)  
 
