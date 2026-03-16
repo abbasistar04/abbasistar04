@@ -63,9 +63,7 @@ Here are some of my **private projects** (links hidden):
 
 ![Contact GIF](https://media.giphy.com/media/3ohhwHhNIGXv7q5QZm/giphy.gif)  
 
-- **Email:** [abbassistar04@gmail.com](mailto:abbassistar04@gmail.com)  
-- **LinkedIn:** [Hurr Abbas](#)  
-- **Twitter:** [@hurr_abbas](#)  
+- **My Linkedin Account** (https://www.linkedin.com/in/hurr-abbas-798a6b379/)
 
 ---
 
